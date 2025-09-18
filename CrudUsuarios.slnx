@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/">
+    <Project Path="src/backend/API.Usuarios/API.Usuarios.csproj" Id="fea15c70-c889-4569-a6de-5f574e2d48f8" />
+    <Project Path="src/backend/Application/Application.csproj" Id="0870d15e-d4c8-4567-b636-ce761b586759" />
+    <Project Path="src/backend/Domain/Domain.csproj" Id="fda8aa14-83a6-439e-bc46-354de8bc8dd7" />
+    <Project Path="src/backend/Infrastucture/Infrastucture.csproj" Id="eab9af3c-c0cb-425b-aa75-59be1ebf3bd0" />
+  </Folder>
+</Solution>
